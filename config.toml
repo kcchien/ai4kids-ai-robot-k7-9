@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "My Docsy"
+title = "AI4Kids - AI視覺辨識自走車創客週末2日營"
 
 enableRobotsTXT = true
 
@@ -56,8 +56,8 @@ id = "UA-00000000-0"
 
 [languages]
 [languages.zh]
-title = "2019 福科國中 AI 麥昆小車夏令營"
-description = "2019 福科國中 AI 麥昆小車夏令營專屬網站"
+title = "AI4Kids - AI視覺辨識自走車創客週末2日營"
+description = "AI視覺辨識自走車創客週末2日營專屬網站"
 contentDir = "content/zh"
 languageName ="繁體中文"
 time_format_default = "2006/01/02"
@@ -83,7 +83,7 @@ github_repo = "https://github.com/kcchien/fcjh_190729"
 # github_subdir = ""
 
 # Google Custom Search Engine ID. Remove or comment out to disable search.
-gcs_engine_id = "011737558837375720776:fsdu1nryfng"
+#gcs_engine_id = "011737558837375720776:fsdu1nryfng"
 
 # User interface configuration
 [params.ui]
